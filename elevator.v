@@ -4,7 +4,7 @@
 // Engineer: 
 // 
 // Create Date: 04/27/2023 01:28:58 AM
-// Design Name: 
+// Design Name: Elevator_Design
 // Module Name: elevator
 // Project Name: FPGA Controller Design for an Elevator
 // Target Devices: 
